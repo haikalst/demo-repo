@@ -1,3 +1,4 @@
 # Demo
 
-Some description.
+Some description. And i think learn Git is easy!
+Well done.
